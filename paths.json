@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/veeam/language-masters/en:/",
+    "/content/veeam/language-masters/en/:/en/",
+    "/content/veeam/language-masters/fr/:/fr/",
+    "/content/veeam/language-masters/fr:/fr",
+    "/content/veeam/language-masters/es/:/es/",
+    "/content/veeam/language-masters/es:/es",
+    "/content/veeam/language-masters/ja/:/ja/",
+    "/content/veeam/language-masters/ja:/ja",
+    "/content/veeam/language-masters/de/:/de/",
+    "/content/veeam/language-masters/de:/de",
+    "/content/veeam/configuration:/.helix/config.json",
+    "/content/veeam/metadata:/metadata.json",
+    "/content/veeam/redirects:/redirects.json",
+    "/content/veeam/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/veeam/",
+    "/content/dam/veeam/"
   ]
 }
